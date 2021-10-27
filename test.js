@@ -5,5 +5,3 @@ if (a + b == 5) {
   console.log('WoW');
 }
 
-
-const t = 5;
